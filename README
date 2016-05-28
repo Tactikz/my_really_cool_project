@@ -1,3 +1,7 @@
 My project is seriously awesome, you guys.
+<<<<<<< HEAD
 
 This project will help Treehouse students learn about working with Git repositories.
+=======
+I shouldnt have fucked with things.
+>>>>>>> foo_feature
